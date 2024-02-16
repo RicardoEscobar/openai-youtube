@@ -18,3 +18,6 @@ source venv/Scripts/activate
 ```bash
 pip install --upgrade openai
 ```
+
+# Generate API key for OpenAI
+TODO: Describe steps.
