@@ -28,7 +28,7 @@ def get_response(
 
 def main():
     system = input("System: ")
-    print("=== Chatbot ===")
+    print("=== Chatbot configurado ===")
     while True:
         prompt = input("Prompt: ")
         response = get_response(prompt, system)
